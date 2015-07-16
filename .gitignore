@@ -1,0 +1,4 @@
+test/dumpsamples
+test/estimate_pi
+test/test_rng
+test/*.dSYM
